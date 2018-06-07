@@ -62,5 +62,20 @@
     <Image Include="res\Contact.ico">
       <Filter>资源文件</Filter>
     </Image>
+    <Image Include="..\..\..\..\Pictures\Ico\Patchouli.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\..\pictures\ico\bitmap2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Pictures\Ico\Remilia.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\..\pictures\ico\bitmap3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Pictures\Ico\Youmu.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>

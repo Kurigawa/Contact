@@ -208,6 +208,11 @@
     <None Include="res\Contact.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\pictures\ico\bitmap2.bmp" />
+    <Image Include="..\..\..\..\pictures\ico\bitmap3.bmp" />
+    <Image Include="..\..\..\..\Pictures\Ico\Patchouli.bmp" />
+    <Image Include="..\..\..\..\Pictures\Ico\Remilia.bmp" />
+    <Image Include="..\..\..\..\Pictures\Ico\Youmu.bmp" />
     <Image Include="res\Contact.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
