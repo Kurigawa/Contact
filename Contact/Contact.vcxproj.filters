@@ -33,6 +33,9 @@
     <ClInclude Include="Addone.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CPublic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Contact.cpp">
@@ -45,6 +48,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Addone.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPublic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
